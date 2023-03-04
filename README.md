@@ -1,3 +1,2 @@
-# DF-DWH-sample
-Data Warehouse designing and sample pipeline development
-Sample learning activity and to store necessary information for doing such project.
+# covid19
+Resources for the Udemy Course - Azure Data Factory For Data Engineers - Project on Covid-19 by Ramesh Retnasamy

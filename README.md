@@ -8,3 +8,7 @@ https://opendata.ecdc.europa.eu/covid19/nationalcasedeath/csv/data.csv
 
 Hopitalization data source:
 https://opendata.ecdc.europa.eu/covid19/hospitalicuadmissionrates/csv/data.csv
+Testing data:
+https://opendata.ecdc.europa.eu/covid19/testing/csv/data.csv
+Copy link address:
+https://opendata.ecdc.europa.eu/covid19/agecasesnational/csv/data.csv

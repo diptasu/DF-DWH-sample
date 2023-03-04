@@ -13,4 +13,4 @@ Testing data:
 https://opendata.ecdc.europa.eu/covid19/testing/csv/data.csv
 
 Copy link address:
-https://opendata.ecdc.europa.eu/covid19/agecasesnational/csv/data.csv
+https://ecdc.europa.eu/sites/default/files/documents/data_response_graphs_0.csv

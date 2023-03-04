@@ -5,3 +5,6 @@ ECDC Europa page link: https://www.ecdc.europa.eu/en/covid-19/data
 
 CSV file LInk: Covid cases and deaths
 https://opendata.ecdc.europa.eu/covid19/nationalcasedeath/csv/data.csv
+
+Hopitalization data source:
+https://opendata.ecdc.europa.eu/covid19/hospitalicuadmissionrates/csv/data.csv
